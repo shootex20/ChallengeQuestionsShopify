@@ -1,4 +1,5 @@
-# ChallengeQuestionsShopify
+# Challenge Questions Shopify
+#Written in Java 8 with Eclipse.
 
 Question 1: Given some sample data, write a program to answer the following: click here to access the required data set
 
