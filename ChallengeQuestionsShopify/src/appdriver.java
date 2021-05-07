@@ -25,8 +25,7 @@ public class appdriver {
 		
 		double totalCalc = totalOrderAmount / totalItems;
 		
-		double testCalc = totalOrderAmount / theData.size();
-		System.out.println("AOV " + totalCalc + " " + testCalc + " " + theData.size());
+		System.out.println("AOV " + totalCalc );
 		
 
 	}
